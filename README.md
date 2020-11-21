@@ -1,4 +1,4 @@
-# homework5
+# Daily Planner
 
 #05 Third Party APIs: Work Day Scheduler
 
